@@ -1,0 +1,79 @@
+banker, e
+housewife, f
+truck driver, e
+explorer, e
+detective, e
+fireman, m
+musician, e
+radio announcer, e
+car salesman, m
+car saleswoman, f
+engineer, e
+barista, e
+novellist, e
+pilot, e
+photographer, e
+computer hacker, e
+secretary, f
+politician, e
+kick-boxer, e
+scientist, e
+college professor, e
+CEO of an internet start-up, e
+factory worker, e
+dental hygenist, e
+surgeon, e
+fisherman, m
+prison guard, e
+serial killer, e
+astronaut, e
+economist, e
+arms dealer, e
+carnival worker, e
+circus clown, m
+Buddhist monk, e
+chiropracter, e
+film director, e
+apple picker, e
+watch maker, e
+diamond miner, e
+reality television star, e
+lawyer, e
+coroner, e
+forensic entomologist, e
+pan-handler, e
+snake milker, e
+professional mourner, e
+professional cuddler, e
+professional line-stander, e
+dog fluffer, e
+meter maid, f
+waterslide tester, e
+golf ball diver, e
+embalmer, e
+voice-over artist, e
+bingo manager, e
+elevator mechanic, e
+ice sculptor, e
+catchpole, e
+exotic eggler, e
+thimblerigger, e
+pyrotechnician, e
+civil war buff, e
+blacksmith, e
+football mascot, e
+gardener, e
+zookeeper, e
+highway flagger, e
+air traffic controller, e
+mail courier, e
+taxi driver, e
+prison guard, e
+lumberjack, m
+lumberjane, f
+newspaper reporter, e
+disc jockey, e
+anesthetist, e
+substance abuse counselor, e
+midwife, f
+midhusband, m
