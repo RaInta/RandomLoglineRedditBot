@@ -25,6 +25,12 @@ So the structure looks like:
 
 > An _adjective_ _protagonist_ must _goal_ or _stakes_. She does this by _visual means_ and learns _theme_.
 
+### How can I use it?
+
+Simple. Just go to the ['test' subReddit](https://www.reddit.com/r/test/) and post a comment there containing the text 'random logline'.
+It will also work on the [Screenwriting subReddit](https://www.reddit.com/r/Screenwriting/) but please don't spam Screenwriting, they're neat folks. The idea is to perhaps hold a 'logline to treatment' writing exercise, where people assign themselves a random logline and they have to write a brief synopsis of the movie they could imagine springing from their logline. 
+
+
 ### Final note
 
 Hopefully you can see that, with the appropriate constraints, our mind can create fairly vivid interpolations of otherwise random drivel. The logline is a useful structure to convey the essence of a movie.
