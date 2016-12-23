@@ -25,6 +25,14 @@ So the structure looks like:
 
 > An _adjective_ _protagonist_ must _goal_ or _stakes_. She does this by _visual means_ and learns _theme_.
 
+Now we can make lists of cool adjectives, types of protagonists, laudable goals, high stakes etc. For example, for the list of themes learned, I trawled lists of proverbs and traditional sayings or folk slogans. The interesting thing is that, for a generic enough list, random combinations of these elements can often appear to almost make sense.
+
+Because each of these choices is, in principle, independent, the number of distinct loglines is the product of the length of the list for each element:
+
+    n(PROTAG_DESCRIPTOR) x n(PROTAG) x n(GOAL) x n(STAKE) x n(VISUAL_MEANS) x n(DISCOVERY)
+    
+For the lists I've provided here, this comes out to be 142x79x50x54x52x139 = 218,926,000,800 . A little over two hundred billion distinct possibilities!
+
 ### How can I use it?
 
 Simple. Just go to the ['test' subReddit](https://www.reddit.com/r/test/) and post a comment there containing the text 'random logline'.
