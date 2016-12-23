@@ -3,7 +3,7 @@ Generates a randomly generated movie logline in response to a post containing "r
 
 ---
 
-    An incompetent forensic entomologist must travel to a remote village of cannibals, or his best friends will divorce. He does this by genetically modifying the common cold and discovers that a straw will show which way the wind blows.
+> An incompetent forensic entomologist must travel to a remote village of cannibals, or his best friends will divorce. He does this by genetically modifying the common cold and discovers that a straw will show which way the wind blows.
 
 No doubt you've seen plenty of movie loglines. You know, the short (TV-guide) description of what the movie is about. These few sentences can make the difference between a box-office success or a complete bomb. Also, a good logline can be a valuable tool for a screenwriter to convince a prospective producer to invest a large amount of money in their movie concept.
 
@@ -12,7 +12,7 @@ Yet, surprisingly often, coming up with a short two or three sentence descriptio
 ### How does it work?
 
 
-~~The main engine is a thinly sliced NLP based on a Markov Chain Monte Carlo that simultaneously parses the Twitter and YouTube APIs~~
+~~The main engine is a thinly sliced NLP based on a Markov Chain Monte Carlo sampling scheme that parses the Twitter API~~
 The structure is actually quite simple. A good (traditional, Hollywood) logline has a number of constraints. Of course, a logline has to be brief (we're all busy and have ever-atrophying attention spans). But it also has to be _about_ some character: the _protagonist_. 
 
 
