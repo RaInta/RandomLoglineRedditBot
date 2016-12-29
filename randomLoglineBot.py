@@ -121,28 +121,12 @@ for submission in submissions:
             reply_boilerplate = "\n\n***\n"
             reply_boilerplate += """[](#footer)*^(I'm a bot, with very limited feelings.
                                 Please downvote me if this was not the logline you were looking for.)
-                                ^\([Info](/u/random_logline) ^/ ^[Feedback](/message/compose?to=/u/random_logline))*"""
+                                ^\([Info](https://github.com/RaInta/RandomLoglineRedditBot) ^/ ^[Feedback](/message/compose?to=/u/random_logline))*"""
             comment.reply( reply_body + reply_boilerplate )
             print "Random logline bot replying to : ", submission.title
             print "with : ", reply_body
             time.sleep(45)
 
-## Here's something to try if we're getting rate limited:
-## From https://www.reddit.com/r/redditdev/comments/1i7fma/been_messing_around_with_praw_but_ive_been/cb1s0g1/
-#import praw, urllib2, time
-#try:
-#    praw.stuff()
-#
-#except praw.errors.RateLimitExceeded as RateLimit:
-#     print("Ratelimit Exceeded.")
-#     time.sleep(RateLimit.sleep_time)
-#     stuff_again()
-#
-#except urllib2.HTTPError as error:
-#    if error.getcode() == "403" :
-#        print( "Banned from subreddit.")
-#    else:
-#        print(error.getcode())
 
 ### For making the bot resilient to Reddit dropping out
 ## Thanks to /u/peoplma
