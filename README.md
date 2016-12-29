@@ -13,6 +13,7 @@ Yet, surprisingly often, coming up with a short two or three sentence descriptio
 
 
 ~~The main engine is a thinly sliced NLP based on a Markov Chain Monte Carlo sampling scheme that parses the IMDb API~~
+
 The structure is actually quite simple. A good (traditional, Hollywood) logline has a number of constraints. Of course, a logline has to be brief (we're all busy and have ever-atrophying attention spans). But it also has to be _about_ some character: the _protagonist_. But you're not just going to watch some dude driving around aimlessly in a car for ninety minutes (OK, [maybe Tom Hardy could carry it off](http://www.imdb.com/title/tt2692904/) ). Your protagonist needs some sort of _goal_. And, to be interesting--to have a point--there needs to be some sort of _stake_ involved, if the protagonist fails to achieve that goal -- implying there's an obstacle to that goal.
 
 We could stop there and that would suffice for many loglines. Some so-called logline experts opine that the perfect loglines are exactly 27 words long.
