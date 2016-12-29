@@ -58,16 +58,7 @@ import logline
 
 r = praw.Reddit(bot_cred.app_ua)
 r.set_oauth_app_info(bot_cred.app_id, bot_cred.app_secret, bot_cred.app_uri)
-#r.get_authorize_url("...","submit read identity", True)
 
-############################################################
-# Some really ugly copypasta for the moment ################
-# Paste in auth code returned from parsing URL returned from above:
-#authCode = "36KhaYQb5VdFWXHwoQiBL06Je8A"
-#access_information = r.get_access_information(authCode)
-## Refresh access_token (token lasts one hour)
-#r.refresh_access_information(access_information['refresh_token'])
-############################################################
 
 ## Refresh access_token (token lasts one hour)
 r.refresh_access_information(bot_cred.refresh_token)
