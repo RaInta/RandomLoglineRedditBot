@@ -12,7 +12,7 @@ Yet, surprisingly often, coming up with a short two or three sentence descriptio
 ### How does it work?
 
 
-~~The main engine is a thinly sliced NLP based on a Markov Chain Monte Carlo sampling scheme that parses the IMDb API~~
+~~The main engine is a thinly sliced NLP engine based on a Markov Chain Monte Carlo sampling scheme that parses the IMDb API~~
 
 The structure is actually quite simple. A good (traditional, 'Hollywood' arch-plot) logline has a number of constraints. Of course, a logline has to be brief (we're all busy and have ever-atrophying attention spans). But it also has to be _about_ some character: the _protagonist_. But you're not just going to watch some dude driving around aimlessly in a car for ninety minutes (OK, [maybe Tom Hardy could carry it off](http://www.imdb.com/title/tt2692904/) ). Your protagonist needs some sort of _goal_. And, to be interesting--to have a point--there needs to be some sort of _stake_ involved, if the protagonist fails to achieve that goal -- implying there's an obstacle to that goal.
 
@@ -67,3 +67,7 @@ Below are another nine I selected from a sample of fifty random loglines. Obviou
 > A smart car saleswoman must retrace her steps from a three day party at a famous designer-drug manufacturer's, or she will become an experiment for torture devices. She does this by cornering the market on Nerf guns and discovers that no man is an island.
 
 > A passionate embalmer must eradicate a vicious gang of horse thieves, or all bird-life will become extinct. He does this by summoning ethereal beings possessing psychokinetic powers and discovers that the smoothest way is full of stones.
+
+
+
+PS This is hosted on my trusty Raspberry Pi Model B. Perfect solution!
