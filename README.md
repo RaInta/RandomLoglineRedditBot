@@ -69,5 +69,6 @@ Below are another nine I selected from a sample of fifty random loglines. Obviou
 > A passionate embalmer must eradicate a vicious gang of horse thieves, or all bird-life will become extinct. He does this by summoning ethereal beings possessing psychokinetic powers and discovers that the smoothest way is full of stones.
 
 
+---
 
-PS This is hosted on my trusty Raspberry Pi Model B. Perfect solution!
+PS This is currently hosted on my trusty Raspberry Pi Model B. Perfect solution!
